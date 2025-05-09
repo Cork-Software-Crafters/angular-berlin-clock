@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Berlin Sans FB"
+}
+
+.time-input-field {
+  text-align: center;
+  font-family: "Berlin Sans FB Demi";
+
+  input[type="text"] {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    width: 200px;
+    margin-bottom: 20px;
+  }
+
+  input[type="text"]:focus {
+    border-color: #007acc;
+    box-shadow: 0 0 5px rgba(0, 122, 204, 0.5);
+  }
+
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+}
