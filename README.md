@@ -12,6 +12,8 @@ You can read more about the Berlin Clock on Wikipedia https://en.wikipedia.org/w
 
 Source: https://agilekatas.co.uk/katas/BerlinClock-Kata
 
+![Berlin Clock](clock.png)
+
 ---
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11.
