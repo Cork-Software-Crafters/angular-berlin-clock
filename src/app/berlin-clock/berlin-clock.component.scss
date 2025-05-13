@@ -12,6 +12,10 @@ $lamp-red: #f00;
   border: solid 8px $primary-bg;
 }
 
+.clock-head.active {
+  background-color: $lamp-yellow;
+}
+
 .clock-grid {
   display: grid;
   grid-template-columns: 1fr;
